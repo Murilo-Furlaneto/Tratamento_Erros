@@ -1,16 +1,8 @@
 # tratamento_erros
 
-A new Flutter project.
+Projeto criado para demonstrar como é a utilização de tratamento de erros no Flutter.
 
-## Getting Started
+O objetivo do projeto é ensinar como trabalhar e como tratar as Exceptions da maneira correta, evitando a utilização de Exceptions genéricas.
 
-This project is a starting point for a Flutter application.
+Desse modo, trazendo um melhor entendimento aos erros que podem ocorrer durante o uso de uma aplicação.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
